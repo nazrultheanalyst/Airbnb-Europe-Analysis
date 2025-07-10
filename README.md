@@ -1,7 +1,7 @@
 # Airbnb Europe Dashboard | Excel
 
 ![Airbnb Dashboard](https://github.com/user-attachments/assets/33cb8576-fdb7-4db3-a2da-4583e4ee90a0)
-[Download Excel Dashboard](https://drive.google.com/file/d/1WTVLaWgqp3xshtKFfJ47ZG2wevyQuWXe/view?usp=sharing)
+[Dive into the Excel Dashboard](https://github.com/nazrultheanalyst/Airbnb-Europe-Analysis/blob/main/Airbnb%20Dashboard.png)
 
 ## 📌 Overview
 
