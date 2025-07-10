@@ -1,6 +1,7 @@
-# Airbnb Europe Dashboard (Excel-based)
+# Airbnb Europe Dashboard | Excel
 
-![Airbnb Dashboard](link-to-your-screenshot.png)
+![Airbnb Dashboard](https://github.com/user-attachments/assets/33cb8576-fdb7-4db3-a2da-4583e4ee90a0)
+[Download Excel Dashboard](https://drive.google.com/file/d/1WTVLaWgqp3xshtKFfJ47ZG2wevyQuWXe/view?usp=sharing)
 
 ## 📌 Overview
 
@@ -51,11 +52,6 @@ To extract actionable insights from Airbnb Europe listings using Microsoft Excel
 - Applying effective data storytelling with visuals  
 - Representing regression and correlation insights with scatter plots
 
-## 📂 Project Files
-
-🔗 **Download Excel Dashboard:** [Click here to download](https://your-download-link.com)
-
-📸 **Screenshots Folder:** `/screenshots`
 
 ## 🚀 How to Use
 
@@ -65,7 +61,7 @@ To extract actionable insights from Airbnb Europe listings using Microsoft Excel
 4. Analyze patterns in pricing, satisfaction, and cleanliness  
 
 ---
-
+[Download Excel Dashboard](https://drive.google.com/file/d/1WTVLaWgqp3xshtKFfJ47ZG2wevyQuWXe/view?usp=sharing)
 ## 🧑‍💻 Created by
 
 **Nazrul Islam**  
@@ -76,6 +72,6 @@ To extract actionable insights from Airbnb Europe listings using Microsoft Excel
 
 ## 🌐 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/nazrul-islam45)
 - [Portfolio Website](https://your-portfolio-site.com)
 
