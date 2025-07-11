@@ -74,5 +74,5 @@ To extract actionable insights from Airbnb Europe listings using Microsoft Excel
 ## 🌐 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/nazrul-islam45)
-- [Portfolio Website](https://your-portfolio-site.com)
+
 
